@@ -21,5 +21,5 @@ This is a required graded programming assignment in MicroPython for the micro:bi
    
 ## Project description
 
-This program uses micropython to turn the micro:bit (and attached speaker) into a light-sensing alarm clock. When the micro:bit is exposed to sufficient levels of light, the microbit displays the image of a sun, starts playing continuous music, and scrolls the current temperature and a good morning message. The alarm can be disabled by pressing the A button, which will initialize a "shutdown theme song" displaying the current temperature, and scrolling the word "Off" on the display. 
+This program uses micropython to turn the micro:bit (and attached speaker) into a light-sensing alarm clock. When the micro:bit is exposed to sufficient levels of light, the microbit displays the image of a sun, starts playing continuous music, and scrolls the current temperature and a good morning message. The alarm can be disabled by pressing and holding the A button, which will initialize a "shutdown theme song" displaying the current temperature, and scrolling the word "Off" on the display. 
 The concept for this program was loosely inspired by the "microbit day and night sensor tutorial" on the MicroMonsters YouTube channel: https://www.youtube.com/watch?v=j5sRLGtN8lY. 
